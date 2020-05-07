@@ -63,7 +63,7 @@ font-size:9px
   background: #e4ab01;
 }
 
-#main-menu {background: #33363b;margin: 0 auto;text-align: left;height: 40px;border-bottom: 2px solid #305d7b;}
+#main-menu {background: #eb1ce3;margin: 0 auto;text-align: left;height: 40px;border-bottom: 2px solid #305d7b;}
 #main-menu ul {margin: 0;list-style: none;padding: 0;}
 #main-menu ul li {float: left;position: relative;}
 #main-menu ul li a {color: #FFF;display: block;text-align: center;line-height: 20px;font-size: 12px;padding: 10px 16px;}
